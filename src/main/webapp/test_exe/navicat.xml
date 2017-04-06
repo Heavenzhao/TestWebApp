@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestItems>
+	<!--project,round,system,testLevel,reqLevelType,req是作为参数据传过来的-->
+  <TestItem project="项目ID" round="轮次ID" system="被测件ID" testLevel="测试级别ID" reqLevelType="需求级别类型ID" req="需求ID">
+    <Name>测试项名称</Name>
+    <Description>测试项描述</Description>
+  </TestItem>
+  
+  <TestItem project="项目ID" round="轮次ID" system="被测件ID" testLevel="测试级别ID" reqLevelType="需求级别类型ID" req="需求ID">
+    <Name>测试项名称</Name>
+    <Description>测试项描述</Description>
+  </TestItem>
+  
+  <TestItem project="项目ID" round="轮次ID" system="被测件ID" testLevel="测试级别ID" reqLevelType="需求级别类型ID" req="需求ID">
+    <Name>测试项名称</Name>
+    <Description>测试项描述</Description>
+  </TestItem>
+  
+  <TestItem project="项目ID" round="轮次ID" system="被测件ID" testLevel="测试级别ID" reqLevelType="需求级别类型ID" req="需求ID">
+    <Name>测试项名称</Name>
+    <Description>测试项描述</Description>
+  </TestItem>
+</TestItems>

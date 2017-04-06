@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\liexplorer]
+@="URL:liexplorer Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\liexplorer\DefaultIcon]
+@="D:\\test\\navicat.exe,1"
+
+[HKEY_CLASSES_ROOT\liexplorer\Shell]
+
+[HKEY_CLASSES_ROOT\liexplorer\Shell\Open]
+
+[HKEY_CLASSES_ROOT\liexplorer\Shell\Open\command]
+@="\"D:\\test\\navicat.exe\" \"%1"

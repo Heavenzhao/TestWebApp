@@ -1,0 +1,80 @@
+logging set to 1
+detailprint: 正在安装 Navicat for Oracle 11.0.10 ，请稍候...
+CreateDirectory: "D:\oracle客户端" (1)
+File: overwriteflag=2, allowskipfilesflag=2, name="dparser.dll"
+File: wrote 175104 to "D:\oracle客户端\dparser.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="freetype6.dll"
+File: wrote 551096 to "D:\oracle客户端\freetype6.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="libcairo-2.dll"
+File: wrote 1294335 to "D:\oracle客户端\libcairo-2.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="libcurl.dll"
+File: wrote 224256 to "D:\oracle客户端\libcurl.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="libdd.dll"
+File: wrote 2146304 to "D:\oracle客户端\libdd.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="libeay32.dll"
+File: wrote 1175040 to "D:\oracle客户端\libeay32.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="libexpat-1.dll"
+File: wrote 143096 to "D:\oracle客户端\libexpat-1.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="libfontconfig-1.dll"
+File: wrote 279059 to "D:\oracle客户端\libfontconfig-1.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="libpng14-14.dll"
+File: wrote 230529 to "D:\oracle客户端\libpng14-14.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="license.txt"
+File: wrote 16136 to "D:\oracle客户端\license.txt"
+File: overwriteflag=2, allowskipfilesflag=2, name="msvcp110.dll"
+File: wrote 535008 to "D:\oracle客户端\msvcp110.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="msvcr110.dll"
+File: wrote 875472 to "D:\oracle客户端\msvcr110.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="msvcr71.dll"
+File: wrote 348160 to "D:\oracle客户端\msvcr71.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="navicat.exe"
+File: wrote 22874744 to "D:\oracle客户端\navicat.exe"
+File: overwriteflag=2, allowskipfilesflag=2, name="navicat.pdf"
+File: wrote 3342584 to "D:\oracle客户端\navicat.pdf"
+File: overwriteflag=2, allowskipfilesflag=2, name="navicatelevation.exe"
+File: wrote 2003064 to "D:\oracle客户端\navicatelevation.exe"
+File: overwriteflag=2, allowskipfilesflag=2, name="nparser.dll"
+File: wrote 13621248 to "D:\oracle客户端\nparser.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="registration.url"
+File: wrote 146 to "D:\oracle客户端\registration.url"
+File: overwriteflag=2, allowskipfilesflag=2, name="scilexer.dll"
+File: wrote 457216 to "D:\oracle客户端\scilexer.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="sqlite3.dll"
+File: wrote 644096 to "D:\oracle客户端\sqlite3.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="sshmgr.dll"
+File: wrote 380928 to "D:\oracle客户端\sshmgr.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="ssleay32.dll"
+File: wrote 269312 to "D:\oracle客户端\ssleay32.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="support.url"
+File: wrote 85 to "D:\oracle客户端\support.url"
+File: overwriteflag=2, allowskipfilesflag=2, name="updater.dll"
+File: wrote 195584 to "D:\oracle客户端\updater.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="zlib1.dll"
+File: wrote 68096 to "D:\oracle客户端\zlib1.dll"
+CreateDirectory: "D:\oracle客户端\instantclient_10_2" (1)
+CreateDirectory: "D:\oracle客户端\instantclient_10_2" created
+File: overwriteflag=2, allowskipfilesflag=2, name="oci.dll"
+File: wrote 356352 to "D:\oracle客户端\instantclient_10_2\oci.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="orannzsbb10.dll"
+File: wrote 1089536 to "D:\oracle客户端\instantclient_10_2\orannzsbb10.dll"
+File: overwriteflag=2, allowskipfilesflag=2, name="oraociicus10.dll"
+File: wrote 18460672 to "D:\oracle客户端\instantclient_10_2\oraociicus10.dll"
+CreateDirectory: "D:\oracle客户端" (1)
+WriteRegDWORD: "HKEY_CURRENT_USER\SOFTWARE\PremiumSoft\NavicatOra" "AutoCheckUpdate"="0x00000000"
+Skipping section: "创建快捷方式"
+Section: "桌面"
+detailprint: 正在创建桌面快捷方式...
+CreateDirectory: "D:\oracle客户端" (1)
+CreateShortCut: out: "C:\Documents and Settings\zhaowy\桌面\Navicat for Oracle.lnk", in: "D:\oracle客户端\navicat.exe ", icon: ,0, sw=0, hk=0
+Skipping section: "快速启动栏"
+Section: "开始菜单程序组"
+detailprint: 正在创建开始菜单程序组快捷方式...
+CreateDirectory: "C:\Documents and Settings\zhaowy\「开始」菜单\程序\Navicat for Oracle" (0)
+CreateDirectory: "C:\Documents and Settings\zhaowy\「开始」菜单\程序\Navicat for Oracle" created
+CreateShortCut: out: "C:\Documents and Settings\zhaowy\「开始」菜单\程序\Navicat for Oracle\Navicat for Oracle.lnk", in: "D:\oracle客户端\navicat.exe ", icon: ,0, sw=0, hk=0
+CreateShortCut: out: "C:\Documents and Settings\zhaowy\「开始」菜单\程序\Navicat for Oracle\访问 绿色下载吧.lnk", in: "http://www.xiazaiba.com ", icon: C:\WINDOWS\system32\url.dll,0, sw=0, hk=0
+CreateShortCut: out: "C:\Documents and Settings\zhaowy\「开始」菜单\程序\Navicat for Oracle\卸载 Navicat for Oracle.lnk", in: "D:\oracle客户端\Uninst.exe ", icon: ,0, sw=0, hk=0
+Section: "-"
+Section: ""
+created uninstaller: 336542, "D:\oracle客户端\Uninst.exe"
+settings logging to 0
